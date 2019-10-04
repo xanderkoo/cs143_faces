@@ -1,0 +1,539 @@
+./img/img01.jpg
+Face: 99.98175
+Person: 99.98175
+Head: 99.95729
+Female:
+Woman:
+Lady:
+Girl:
+Man: 66.507996
+Boy:
+
+./img/img02.jpg
+Face: 99.99925
+Person: 99.99925
+Head: 99.90896
+Female: 70.07701
+Woman: 52.565353
+Lady: 30.28023
+Girl:
+Man:
+Boy:
+
+./img/img03.jpg
+Face: 99.997406
+Person: 99.997406
+Head: 99.92134
+Female:
+Woman:
+Lady:
+Girl:
+Man: 25.970373
+Boy: 23.36657
+
+./img/img04.jpg
+Face: 99.44428
+Person: 99.44428
+Head: 99.9687
+Female:
+Woman:
+Lady:
+Girl:
+Man: 24.295763
+Boy: 30.73554
+
+./img/img05.jpg
+Face: 99.96025
+Person: 99.96025
+Head: 99.96074
+Female: 29.961031
+Woman: 29.961031
+Lady:
+Girl:
+Man: 62.0759
+Boy:
+
+./img/img06.jpg
+Face: 96.967094
+Person: 96.967094
+Head: 99.99374
+Female: 14.712945
+Woman: 14.712945
+Lady:
+Girl:
+Man: 26.47505
+Boy:
+
+./img/img07.jpg
+Face: 99.984406
+Person: 99.984406
+Head: 99.99737
+Female: 71.25566
+Woman: 50.99107
+Lady:
+Girl: 45.169025
+Man: 27.676111
+Boy:
+
+./img/img08.jpg
+Face: 99.92735
+Person: 99.92735
+Head: 99.953384
+Female:
+Woman:
+Lady:
+Girl:
+Man: 63.938484
+Boy:
+
+./img/img09.jpg
+Face: 99.74958
+Person: 99.74958
+Head: 97.67281
+Female: 60.78859
+Woman: 39.675613
+Lady:
+Girl:
+Man:
+Boy:
+
+./img/img10.jpg
+Face: 99.9955
+Person: 99.9955
+Head: 99.66078
+Female: 28.598263
+Woman: 28.598263
+Lady: 25.052362
+Girl:
+Man: 30.247732
+Boy:
+
+./img/img11.jpg
+Face: 99.99884
+Person: 99.99884
+Head: 99.58451
+Female: 24.508701
+Woman: 24.508701
+Lady:
+Girl:
+Man: 29.38218
+Boy:
+
+./img/img12.jpg
+Face: 99.99592
+Person: 99.99592
+Head: 91.49163
+Female: 29.563808
+Woman: 27.310509
+Lady:
+Girl:
+Man:
+Boy:
+
+./img/img13.jpg
+Face: 99.99676
+Person: 99.99676
+Head: 99.993225
+Female: 24.151625
+Woman: 24.151625
+Lady:
+Girl:
+Man: 43.43432
+Boy:
+
+./img/img14.jpg
+Face: 99.71352
+Person: 99.71352
+Head: 99.94885
+Female: 74.57522
+Woman: 58.93512
+Lady: 34.020626
+Girl: 35.74508
+Man:
+Boy:
+
+./img/img15.jpg
+Face: 99.992744
+Person: 99.992744
+Head: 99.97413
+Female: 19.415905
+Woman: 19.415905
+Lady:
+Girl:
+Man: 27.149176
+Boy: 22.939123
+
+./img/img16.jpg
+Face: 99.94649
+Person: 99.94649
+Head: 99.380875
+Female: 95.09123
+Woman: 80.064545
+Lady: 40.902462
+Girl: 65.33255
+Man:
+Boy:
+
+./img/img17.jpg
+Face: 99.97923
+Person: 99.97923
+Head: 99.999664
+Female: 25.21019
+Woman: 25.21019
+Lady:
+Girl:
+Man: 46.585873
+Boy:
+
+./img/img18.jpg
+Face: 99.89358
+Person: 99.89358
+Head: 99.983894
+Female: 43.537518
+Woman: 37.09663
+Lady:
+Girl:
+Man: 33.82811
+Boy:
+
+./img/img19.jpg
+Face: 99.998665
+Person: 99.998665
+Head: 99.485756
+Female:
+Woman:
+Lady:
+Girl:
+Man: 18.00097
+Boy: 23.388803
+
+./img/img20.jpg
+Face: 99.983444
+Person: 99.983444
+Head: 87.09115
+Female: 48.132427
+Woman: 36.634674
+Lady:
+Girl:
+Man:
+Boy:
+
+./img/img21.jpg
+Face: 99.99228
+Person: 99.99228
+Head: 99.64587
+Female: 63.041023
+Woman: 49.10941
+Lady: 34.794147
+Girl:
+Man:
+Boy:
+
+./img/img22.jpg
+Face: 99.83483
+Person: 99.83483
+Head: 99.99994
+Female:
+Woman:
+Lady:
+Girl:
+Man: 40.178173
+Boy:
+
+./img/img23.jpg
+Face: 99.95769
+Person: 99.95769
+Head: 99.99545
+Female:
+Woman:
+Lady:
+Girl:
+Man: 70.429146
+Boy:
+
+./img/img24.jpg
+Face: 99.813995
+Person: 99.813995
+Head: 99.99996
+Female: 53.794502
+Woman: 43.7388
+Lady:
+Girl:
+Man: 47.18271
+Boy: 32.308964
+
+./img/img25.jpg
+Face: 99.99643
+Person: 99.99643
+Head: 95.0466
+Female: 27.40362
+Woman: 25.912294
+Lady:
+Girl:
+Man: 42.18308
+Boy: 34.470806
+
+./img/img26.jpg
+Face: 99.90027
+Person: 99.90027
+Head: 99.66921
+Female: 26.46986
+Woman: 25.678274
+Lady:
+Girl:
+Man:
+Boy:
+
+./img/img27.jpg
+Face: 99.966805
+Person: 99.966805
+Head: 98.4091
+Female:
+Woman:
+Lady:
+Girl:
+Man: 66.22698
+Boy: 36.785576
+
+./img/img28.jpg
+Face: 99.915215
+Person: 99.915215
+Head: 99.93082
+Female: 35.887173
+Woman: 32.567413
+Lady:
+Girl:
+Man: 42.945854
+Boy: 26.609312
+
+./img/img29.jpg
+Face: 99.987114
+Person: 99.987114
+Head: 98.901306
+Female: 67.272675
+Woman: 51.093517
+Lady: 31.10478
+Girl:
+Man:
+Boy:
+
+./img/img30.jpg
+Face: 99.993324
+Person: 99.993324
+Head: 99.99637
+Female: 22.72689
+Woman: 22.72689
+Lady:
+Girl:
+Man: 43.50729
+Boy: 25.748102
+
+./img/img31.jpg
+Face: 99.90458
+Person: 99.90458
+Head: 99.99916
+Female:
+Woman:
+Lady:
+Girl:
+Man: 52.033466
+Boy:
+
+./img/img32.jpg
+Face: 99.97522
+Person: 99.97522
+Head: 98.93249
+Female:
+Woman:
+Lady:
+Girl:
+Man: 54.761517
+Boy: 55.17457
+
+./img/img33.jpg
+Face: 99.99514
+Person: 99.99514
+Head: 99.992096
+Female: 33.559322
+Woman: 29.99687
+Lady:
+Girl:
+Man:
+Boy:
+
+./img/img34.jpg
+Face: 99.97808
+Person: 99.97808
+Head: 96.64454
+Female: 95.67331
+Woman: 79.03897
+Lady: 38.84159
+Girl: 73.298035
+Man:
+Boy:
+
+./img/img35.jpg
+Face: 99.98956
+Person: 99.98956
+Head: 99.58647
+Female:
+Woman:
+Lady:
+Girl:
+Man: 55.53938
+Boy:
+
+./img/img36.jpg
+Face: 99.98836
+Person: 99.98836
+Head: 99.15122
+Female:
+Woman:
+Lady:
+Girl:
+Man: 79.86602
+Boy: 26.592836
+
+./img/img37.jpg
+Face: 99.978134
+Person: 99.978134
+Head: 99.99996
+Female: 31.303085
+Woman: 31.303085
+Lady:
+Girl:
+Man: 43.034016
+Boy:
+
+./img/img38.jpg
+Face: 99.99482
+Person: 99.99482
+Head: 99.53163
+Female:
+Woman:
+Lady:
+Girl:
+Man: 38.308605
+Boy:
+
+./img/img39.jpg
+Face: 99.998184
+Person: 99.998184
+Head: 99.992935
+Female: 31.98853
+Woman: 31.98853
+Lady: 30.519587
+Girl:
+Man:
+Boy:
+
+./img/img40.jpg
+Face: 99.94166
+Person: 99.94166
+Head: 99.996735
+Female:
+Woman:
+Lady:
+Girl:
+Man: 57.279716
+Boy:
+
+./img/img41.jpg
+Face: 99.96938
+Person: 99.96938
+Head: 99.64719
+Female:
+Woman:
+Lady:
+Girl:
+Man: 63.573784
+Boy:
+
+./img/img42.jpg
+Face: 99.99331
+Person: 99.99331
+Head: 99.997986
+Female: 39.933537
+Woman: 32.002476
+Lady:
+Girl:
+Man: 52.01416
+Boy:
+
+./img/img43.jpg
+Face: 99.97136
+Person: 99.97136
+Head: 99.99999
+Female: 27.19793
+Woman: 27.19793
+Lady:
+Girl:
+Man: 37.931026
+Boy:
+
+./img/img44.jpg
+Face: 99.99146
+Person: 99.99146
+Head: 98.687935
+Female: 63.333378
+Woman: 45.617966
+Lady: 33.22953
+Girl:
+Man:
+Boy:
+
+./img/img45.jpg
+Face: 99.99866
+Person: 99.99866
+Head: 66.30882
+Female: 20.177095
+Woman: 20.177095
+Lady:
+Girl:
+Man: 56.15404
+Boy: 27.455503
+
+./img/img46.jpg
+Face: 99.37171
+Person: 99.37171
+Head: 99.99992
+Female: 29.743263
+Woman: 29.743263
+Lady:
+Girl:
+Man: 35.302235
+Boy:
+
+./img/img47.jpg
+Face: 99.9869
+Person: 99.9869
+Head: 99.97327
+Female: 75.0397
+Woman: 53.154285
+Lady:
+Girl:
+Man:
+Boy:
+
+./img/img48.jpg
+Face: 99.75752
+Person: 99.75752
+Head: 99.99989
+Female:
+Woman:
+Lady:
+Girl:
+Man: 48.704174
+Boy: 24.226515
+
+./img/img49.jpg
+Face: 99.99975
+Person: 99.99975
+Head: 16.23061
+Female:
+Woman:
+Lady:
+Girl:
+Man: 17.636986
+Boy: 11.739695
+
